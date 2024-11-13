@@ -77,20 +77,5 @@ flume-ng agent \
 - HuggingFace Transformers
 - LangChain/LlamaIndex (upcoming)
 
-## Directory Structure
-```
-├── flume/
-│   ├── f.config
-│   └── README.md
-├── scripts/
-│   ├── generate_reviews.py
-│   └── sentiment_analysis.py
-├── notebooks/
-│   └── sentiment_analysis_demo.ipynb
-├── tests/
-├── docs/
-└── README.md
-```
-
 ## Contributing
 Feel free to open issues or submit pull requests.
